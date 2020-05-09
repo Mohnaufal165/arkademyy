@@ -1,7 +1,7 @@
 function Biodata(name, age) {
     var res = {
-        name: "mohammad naufal",
-        age: "18",
+        name: name,
+        age: age,
         address: "Bekasi",
         hobbies: [
             "Berenang", "olahraga",
@@ -24,4 +24,4 @@ function Biodata(name, age) {
 
 }
 
-Biodata("Naufal", 12)
+Biodata("Mohammad naufal", 18)
